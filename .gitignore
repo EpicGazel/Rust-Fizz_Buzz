@@ -14,5 +14,5 @@ Cargo.lock
 *.pdb
 
 # Reference Code
-"main original.rs"
-"main without function.rs"
+src/main original.rs
+src/main without function.rs
